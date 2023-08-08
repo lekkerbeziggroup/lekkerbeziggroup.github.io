@@ -1,0 +1,82 @@
+{
+  "home": "Home",
+  "about": "About",
+  "services": "Services",
+  "portfolio": "Portfolio",
+  "contact": "Contact",
+  "email":"Email",
+  "welcome": "Welcome to",
+  "welcome-text": "We are nature's supplier—fruits, vegetables, and frozen delights. Join our thriving community. Ideas blossom, growth knows no bounds. Embrace innovation on this journey to success. Together, we'll cultivate prosperity and endless possibilities. Welcome aboard!",
+  "fruits": "Fruits",
+  "fruits-text": "Nature's sweet abundance, delivered to you with care — your dedicated fruits supplier for moments of delight.",
+  "vegetables": "Vegetables",
+  "vegetables-text": "Fresh, crisp vegetables delivered to your door. Elevate meals with our quality produce, sourced and selected with care.",
+  "ff": "Frozen foods",
+  "ff-text":"Chilled frozen delights delivered to you. Enjoy hassle-free meals with our premium frozen foods, sourced for satisfaction.",
+  "sea-f": "Sea food and Meat products",
+  "sea-f-text":"Delectable seafood and savory meat products delivered fresh. Savor the taste of quality, sourced with utmost care.",
+  
+  "lang-select": "Language Selection",
+  "about-us": {
+    "title": "About Us",
+    "subtitle-black": "Find Out More",
+    "about-us-intro": "As your esteemed business partner, Lekker Bezig operates globally, specializing in an array of Foodstuffs, including Fruits, Vegetables, and Frozen Products. Our primary goal is to align seamlessly with your trade requirements and business objectives. Utilizing our extensive network, we connect you with companies to fully leverage the exceptional services we offer, ensuring mutual benefits and fruitful collaborations",
+    "intro-1": "Our Vision.",
+    "intro-1-sub-heading": "As Lekker Bezig, we aspire to become the leading distributor of top-notch Asian/Indian vegetables and tropical fresh fruits. Our relentless commitment to innovation, unwavering credibility, timely delivery, and competitive pricing sets a new industry benchmark, driving us towards this goal.",
+    "intro-1-p-1-bold": "Premier Distribution Services",
+    "intro-1-p-1": "Lekker Bezig is driven by a vision to establish itself as the industry's leading distributor, providing the highest quality Asian/Indian vegetables and tropical fresh fruits to customers worldwide.",
+    "intro-1-p-2-bold": "Setting a New Standard",
+    "intro-1-p-2": "Our commitment to continuous innovation, unwavering credibility, punctuality, and competitive pricing sets a new industry benchmark, reinforcing our position as a leader in the market.",
+    "intro-1-ending":"With passion and determination, Lekker Bezig is ready to serve you with excellence. Experience the finest produce and unmatched services as we build a fruitful partnership together. Join us on this remarkable journey of growth and success, and let's make every moment a celebration of fresh possibilities. Your satisfaction is our priority, and we look forward to exceeding your expectations at every turn."
+  },
+  "our-services": {
+    "title": "Services",
+    "subtitle-black":"Check our",
+    "subtitle-1": "Discover Our Comprehensive Range of Services.",
+    "fruits": {
+      "title":"",
+      "body": "Taste the goodness of sun-kissed fruits, handpicked and delivered with utmost freshness. With a passion for quality and a commitment to your satisfaction, we take pride in being your trusted source of nature's delights. Join us in savoring the essence of nature's bounty and elevate your culinary experience with our premium fruits."
+    },
+    "veg": {
+      "title": "Vegetables",
+      "body": "Indulge in a colorful array of farm-fresh vegetables, carefully curated to enrich your culinary creations. With a focus on sustainability and nutritional value, we bring you the best nature has to offer. From vibrant salads to hearty stews, our vegetables are the perfect ingredient for healthy and delectable dishes. Experience the convenience of having wholesome goodness delivered right to your doorstep, making every meal a delightful and nourishing experience."
+    },
+    "f.f": {
+      "title": "Frozen Food",
+      "body": "Delight in the convenience of our frozen treasures, carefully selected to preserve their flavor and texture. From succulent seafood to savory meat cuts, our frozen products ensure every dish is a culinary masterpiece. With Lekker Bezig, you can elevate your dining experience without compromising on taste or quality. Embrace the ease of preparing gourmet meals in the comfort of your home and discover a world of delectable possibilities."
+    },
+    "s.f": {
+      "title": "Sea Food & Meat Products",
+      "body": "Indulge in a culinary adventure with Lekker Bezig's finest selection of seafood and meat. Our commitment to freshness and careful sourcing guarantees an unforgettable dining experience. From gourmet feasts to everyday delights, our products bring a burst of flavor to your table, leaving you craving for more. With each bite, savor the essence of quality and passion, as we deliver the best nature has to offer right to your plate."
+    },
+    "logistics": {
+      "title": "Logistics",
+      "body": "As a reliable logistics partner, we specialize in delivering a wide array of goods globally. From foodstuffs and chemicals to engineering goods, documents, garments, oil, medicine, and more, our comprehensive solutions cater to your unique requirements. With a vast network and expertise, we ensure seamless and efficient transportation of your goods to any destination worldwide. Trust us to handle your logistics needs and experience smooth, reliable, and timely deliveries across the globe."
+    }
+  },
+  "portfolio-section": {
+    "title": "Portfolio",
+    "subtitle-black":"Check our",
+    "subtitle-1": "With a firm grip on these industries, Fruits & Vegetables, Frozen Food, and Logistics stand as our primary focus. Despite limited capital, we wield the power to make a significant impact.",
+    "all":"All"
+  },
+  "contact-us": "Contact Us",
+  "contact-section": {
+    "title": "Drop us your enquiry or Just say Hello!.",
+    "address":"Our Address",
+    "name": "Your Name",
+    "email": "Your email",
+    "subject": "Subject",
+    "message": "Message",
+    "send-message": "Send message",
+    "email-us": "Email us",
+    "call": "Call",
+    "open-hr": "Open Hours"
+  },
+  "footer": {
+    "all-rights": "All rights reserved.."
+  },
+  "loading": "Loading",
+  "message-sent": "Your message has been sent. Thank you!",
+  "b-o": "Business overview"
+}

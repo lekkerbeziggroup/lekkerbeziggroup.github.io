@@ -1,0 +1,81 @@
+{
+  "home": "Startseite",
+  "about": "Über uns",
+  "services": "Dienstleistungen",
+  "portfolio": "Portfolio",
+  "contact": "Kontakt",
+  "email": "E-Mail",
+  "welcome": "Willkommen bei",
+  "welcome-text": "Wir sind der Lieferant der Natur - Obst, Gemüse und gefrorene Köstlichkeiten. Treten Sie unserer blühenden Gemeinschaft bei. Ideen blühen auf, Wachstum kennt keine Grenzen. Nehmen Sie Innovationen auf dieser Reise zum Erfolg an. Gemeinsam werden wir Wohlstand und endlose Möglichkeiten kultivieren. Willkommen an Bord!",
+  "fruits": "Obst",
+  "fruits-text": "Die süße Fülle der Natur, mit Sorgfalt zu Ihnen geliefert - Ihr engagierter Obstlieferant für genussvolle Momente.",
+  "vegetables": "Gemüse",
+  "vegetables-text": "Frisches, knackiges Gemüse, direkt zu Ihrer Tür geliefert. Erhöhen Sie Mahlzeiten mit unserer qualitativ hochwertigen, sorgfältig ausgewählten Produktlinie.",
+  "ff": "Tiefkühlkost",
+  "ff-text": "Kühl gelieferte gefrorene Köstlichkeiten für Sie. Genießen Sie stressfreie Mahlzeiten mit unserer hochwertigen Tiefkühlkost, ausgewählt für Zufriedenheit.",
+  "sea-f": "Meeresfrüchte und Fleischprodukte",
+  "sea-f-text": "Verlockende Meeresfrüchte und herzhafte Fleischprodukte, frisch geliefert. Genießen Sie den Geschmack von Qualität, sorgfältig ausgewählt und mit größter Sorgfalt geliefert.",
+  "lang-select": "Sprachauswahl",
+  "about-us": {
+    "title": "Über uns",
+    "subtitle-black": "Erfahren Sie mehr",
+    "about-us-intro": "Als Ihr geschätzter Geschäftspartner agiert Lekker Bezig global und ist auf eine Vielzahl von Lebensmitteln spezialisiert, darunter Obst, Gemüse und Tiefkühlprodukte. Unser Hauptziel ist es, sich nahtlos mit Ihren Handelsanforderungen und Geschäftszielen zu verbinden. Mit unserem umfangreichen Netzwerk verbinden wir Sie mit Unternehmen, um die außergewöhnlichen von uns angebotenen Dienstleistungen in vollem Umfang zu nutzen und gegenseitige Vorteile und fruchtbare Zusammenarbeit zu gewährleisten.",
+    "intro-1": "Unsere Vision.",
+    "intro-1-sub-heading": "Als Lekker Bezig streben wir danach, der führende Vertreiber von erstklassigem asiatischem/indischem Gemüse und tropischen Frischobst zu werden. Unsere unermüdliche Verpflichtung zur Innovation, unerschütterliche Glaubwürdigkeit, pünktliche Lieferung und wettbewerbsfähige Preise setzen einen neuen Branchenstandard und treiben uns diesem Ziel entgegen.",
+    "intro-1-p-1-bold": "Hervorragende Vertriebsdienste",
+    "intro-1-p-1": "Lekker Bezig hat sich zum Ziel gesetzt, sich als führender Vertreiber der Branche zu etablieren und Kunden weltweit mit hochwertigstem asiatischem/indischem Gemüse und tropischem Frischobst zu versorgen.",
+    "intro-1-p-2-bold": "Einen neuen Standard setzen",
+    "intro-1-p-2": "Unsere Verpflichtung zur kontinuierlichen Innovation, unerschütterlichen Glaubwürdigkeit, Pünktlichkeit und wettbewerbsfähigen Preisen setzt einen neuen Branchenstandard und festigt unsere Position als Marktführer.",
+    "intro-1-ending": "Mit Leidenschaft und Entschlossenheit ist Lekker Bezig bereit, Ihnen mit Exzellenz zu dienen. Erleben Sie die feinste Qualität und unvergleichliche Dienstleistungen, während wir gemeinsam eine fruchtbare Partnerschaft aufbauen. Begleiten Sie uns auf dieser bemerkenswerten Reise des Wachstums und des Erfolgs, und lassen Sie uns jeden Moment zu einer Feier neuer Möglichkeiten machen. Ihre Zufriedenheit steht an erster Stelle, und wir freuen uns darauf, Ihre Erwartungen bei jeder Gelegenheit zu übertreffen."
+  },
+  "our-services": {
+    "title": "Dienstleistungen",
+    "subtitle-black": "Schauen Sie sich unsere an",
+    "subtitle-1": "Entdecken Sie unser umfassendes Dienstleistungsangebot.",
+    "fruits": {
+      "title": "",
+      "body": "Probieren Sie die Güte von sonnenverwöhnten Früchten, handverlesen und mit größter Frische geliefert. Mit Leidenschaft für Qualität und einem Engagement für Ihre Zufriedenheit sind wir stolz darauf, Ihre vertrauenswürdige Quelle für die Köstlichkeiten der Natur zu sein. Begleiten Sie uns dabei, die Essenz der natürlichen Fülle zu genießen, und verfeinern Sie Ihre kulinarische Erfahrung mit unseren hochwertigen Früchten."
+    },
+    "veg": {
+      "title": "Gemüse",
+      "body": "Genießen Sie eine bunte Auswahl an frischem Gemüse direkt vom Bauernhof, sorgfältig zusammengestellt, um Ihre kulinarischen Kreationen zu bereichern. Mit einem Fokus auf Nachhaltigkeit und Nährwert bieten wir Ihnen das Beste, was die Natur zu bieten hat. Von lebendigen Salaten bis zu herzhaften Eintöpfen - unser Gemüse ist die perfekte Zutat für gesunde und köstliche Gerichte. Erleben Sie die Bequemlichkeit, die Sie durch die Lieferung von gesunder Güte direkt vor Ihre Tür erhalten, und machen Sie jede Mahlzeit zu einem köstlichen und nahrhaften Erlebnis."
+    },
+    "f.f": {
+      "title": "Tiefkühlkost",
+      "body": "Freuen Sie sich über die Bequemlichkeit unserer tiefgefrorenen Schätze, sorgfältig ausgewählt, um Geschmack und Textur zu bewahren. Von saftigen Meeresfrüchten bis zu herzhaften Fleischstücken - unsere tiefgekühlten Produkte garantieren, dass jedes Gericht ein kulinarisches Meisterwerk ist. Mit Lekker Bezig können Sie Ihre kulinarische Erfahrung verbessern, ohne auf Geschmack oder Qualität zu verzichten. Genießen Sie die Leichtigkeit der Zubereitung von Gourmet-Mahlzeiten im Komfort Ihres Zuhauses und entdecken Sie eine Welt köstlicher Möglichkeiten."
+    },
+    "s.f": {
+      "title": "Meeresfrüchte & Fleischprodukte",
+      "body": "Gehen Sie auf eine kulinarische Entdeckungsreise mit Lekker Bezig's feinster Auswahl an Meeresfrüchten und Fleisch. Unsere Verpflichtung zur Frische und sorgfältigen Beschaffung garantiert ein unvergessliches kulinarisches Erlebnis. Von Gourmet-Festmahlen bis zu alltäglichen Freuden bringen unsere Produkte eine Explosion von Geschmack auf Ihren Tisch und lassen Sie nach mehr verlangen. Mit jedem Bissen genießen Sie die Essenz von Qualität und Leidenschaft, während wir Ihnen das Beste bieten, was die Natur zu bieten hat, direkt auf Ihrem Teller."
+    },
+    "logistics": {
+      "title": "Logistik",
+      "body": "Als zuverlässiger Logistikpartner sind wir auf die Lieferung einer Vielzahl von Gütern weltweit spezialisiert. Von Lebensmitteln und Chemikalien über Ingenieurprodukte, Dokumente, Kleidung, Öl, Medikamente und mehr - unsere umfassenden Lösungen decken Ihre individuellen Anforderungen ab. Mit einem großen Netzwerk und Fachkenntnissen gewährleisten wir nahtlosen und effizienten Transport Ihrer Güter zu jedem Ziel weltweit. Vertrauen Sie uns Ihre Logistikbedürfnisse an und erleben Sie reibungslose, zuverlässige und pünktliche Lieferungen weltweit."
+    }
+  },
+  "portfolio-section": {
+    "title": "Portfolio",
+    "subtitle-black": "Schauen Sie sich unsere an",
+    "subtitle-1": "Mit einem festen Griff auf diese Branchen stehen Obst & Gemüse, Tiefkühlkost und Logistik im Mittelpunkt unserer Aufmerksamkeit. Trotz begrenztem Kapital haben wir die Kraft, einen bedeutenden Einfluss zu erzielen.",
+    "all": "Alle"
+  },
+  "contact-us": "Kontaktieren Sie uns",
+  "contact-section": {
+    "title": "Senden Sie uns Ihre Anfrage oder sagen Sie einfach Hallo!",
+    "address": "Unsere Adresse",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "send-message": "Nachricht senden",
+    "email-us": "E-Mail an uns",
+    "call": "Anrufen",
+    "open-hr": "Öffnungszeiten"
+  },
+  "footer": {
+    "all-rights": "Alle Rechte vorbehalten."
+  },
+  "loading": "Laden",
+  "message-sent": "Ihre Nachricht wurde gesendet. Vielen Dank!",
+  "b-o": "Geschäftsübersicht"
+}

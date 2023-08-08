@@ -1,0 +1,81 @@
+{
+  "home": "Home",
+  "about": "Over Ons",
+  "services": "Diensten",
+  "portfolio": "Portfolio",
+  "contact": "Contact",
+  "email": "E-mail",
+  "welcome": "Welkom bij",
+  "welcome-text": "Wij zijn de leverancier van de natuur - fruit, groenten en bevroren lekkernijen. Sluit je aan bij onze bloeiende gemeenschap. Ideeën bloeien, groei kent geen grenzen. Omarm innovatie op deze reis naar succes. Samen zullen we welvaart en eindeloze mogelijkheden cultiveren. Welkom aan boord!",
+  "fruits": "Fruit",
+  "fruits-text": "De zoete overvloed van de natuur, met zorg bij u bezorgd - uw toegewijde leverancier van fruit voor heerlijke momenten.",
+  "vegetables": "Groenten",
+  "vegetables-text": "Verse, knapperige groenten bij u thuis bezorgd. Verrijk uw maaltijden met onze kwaliteitsproducten, zorgvuldig geselecteerd en verzorgd.",
+  "ff": "Bevroren producten",
+  "ff-text": "Koel bevroren lekkernijen bij u bezorgd. Geniet van moeiteloze maaltijden met onze hoogwaardige bevroren producten, met zorg geselecteerd voor uw tevredenheid.",
+  "sea-f": "Zeevruchten en Vleesproducten",
+  "sea-f-text": "Heerlijke zeevruchten en smakelijke vleesproducten vers bij u bezorgd. Geniet van de smaak van kwaliteit, met de grootste zorg geselecteerd.",
+  "lang-select": "Taalkeuze",
+  "about-us": {
+    "title": "Over Ons",
+    "subtitle-black": "Ontdek Meer",
+    "about-us-intro": "Als uw gewaardeerde zakelijke partner opereert Lekker Bezig wereldwijd en is gespecialiseerd in een scala aan voedingsmiddelen, waaronder fruit, groenten en bevroren producten. Ons belangrijkste doel is om naadloos aan te sluiten bij uw handelsbehoeften en zakelijke doelstellingen. Door gebruik te maken van ons uitgebreide netwerk verbinden we u met bedrijven om optimaal gebruik te maken van de uitzonderlijke diensten die we aanbieden, zodat we wederzijdse voordelen en vruchtbare samenwerkingen kunnen waarborgen.",
+    "intro-1": "Onze Visie.",
+    "intro-1-sub-heading": "Als Lekker Bezig streven we ernaar om de toonaangevende distributeur te worden van hoogwaardige Aziatische/Indiase groenten en tropisch vers fruit. Onze onvermoeibare toewijding aan innovatie, onwankelbare geloofwaardigheid, tijdige levering en concurrerende prijzen zetten een nieuwe norm in de branche, en stuwen ons naar dit doel.",
+    "intro-1-p-1-bold": "Eersteklas Distributiediensten",
+    "intro-1-p-1": "Lekker Bezig wordt gedreven door een visie om zichzelf te vestigen als de toonaangevende distributeur in de branche, die de hoogste kwaliteit Aziatische/Indiase groenten en tropisch vers fruit levert aan klanten wereldwijd.",
+    "intro-1-p-2-bold": "Een Nieuwe Norm Stellen",
+    "intro-1-p-2": "Onze toewijding aan voortdurende innovatie, onwankelbare geloofwaardigheid, stiptheid en concurrerende prijzen zetten een nieuwe norm in de branche en versterken onze positie als marktleider.",
+    "intro-1-ending": "Met passie en vastberadenheid staat Lekker Bezig klaar om u uitstekend van dienst te zijn. Ervaar de beste producten en ongeëvenaarde diensten terwijl we samen een vruchtbare samenwerking opbouwen. Sluit u aan bij ons op deze opmerkelijke reis van groei en succes, en laten we van elk moment een viering van nieuwe mogelijkheden maken. Uw tevredenheid is onze prioriteit, en we kijken ernaar uit om aan al uw verwachtingen te voldoen."
+  },
+  "our-services": {
+    "title": "Diensten",
+    "subtitle-black": "Bekijk onze",
+    "subtitle-1": "Ontdek ons uitgebreide assortiment diensten.",
+    "fruits": {
+      "title": "",
+      "body": "Proef de goedheid van door de zon gekuste vruchten, met zorg met de hand geplukt en met de grootste versheid bij u bezorgd. Met passie voor kwaliteit en toewijding aan uw tevredenheid, zijn we er trots op uw vertrouwde bron te zijn voor de lekkernijen van de natuur. Sluit u bij ons aan om de essentie van de overvloed van de natuur te proeven en verrijk uw culinaire ervaring met onze hoogwaardige vruchten."
+    },
+    "veg": {
+      "title": "Groenten",
+      "body": "Trakteer uzelf op een kleurrijk assortiment verse groenten van de boerderij, zorgvuldig samengesteld om uw culinaire creaties te verrijken. Met de focus op duurzaamheid en voedingswaarde brengen we u het beste dat de natuur te bieden heeft. Van levendige salades tot stevige stoofschotels zijn onze groenten de perfecte ingrediënten voor gezonde en verrukkelijke gerechten. Ervaar het gemak van het hebben van gezonde goedheid die rechtstreeks bij u thuis wordt bezorgd, waardoor elke maaltijd een heerlijke en voedzame ervaring wordt."
+    },
+    "f.f": {
+      "title": "Bevroren Producten",
+      "body": "Geniet van het gemak van onze bevroren schatten, zorgvuldig geselecteerd om hun smaak en textuur te behouden. Van sappige zeevruchten tot smakelijke vleesstukken, zorgen onze bevroren producten ervoor dat elk gerecht een culinair meesterwerk is. Met Lekker Bezig kunt u uw eetervaring naar een hoger niveau tillen zonder concessies te doen aan smaak of kwaliteit. Omarm het gemak van het bereiden van gastronomische maaltijden in het comfort van uw eigen huis en ontdek een wereld van verrukkelijke mogelijkheden."
+    },
+    "s.f": {
+      "title": "Zeevruchten & Vleesproducten",
+      "body": "Beleef een culinair avontuur met de beste selectie zeevruchten en vlees van Lekker Bezig. Onze toewijding aan versheid en zorgvuldige sourcing garandeert een onvergetelijke eetervaring. Van gastronomische feesten tot dagelijkse genoegens, onze producten brengen een explosie van smaak naar uw tafel, waardoor u meer wilt. Bij elke hap proeft u de essentie van kwaliteit en passie, terwijl we het beste dat de natuur te bieden heeft rechtstreeks bij u op het bord leveren."
+    },
+    "logistics": {
+      "title": "Logistiek",
+      "body": "Als betrouwbare logistieke partner zijn we gespecialiseerd in het leveren van een breed scala aan goederen over de hele wereld. Van voedingsmiddelen en chemicaliën tot technische goederen, documenten, kleding, olie, medicijnen en meer, bieden onze uitgebreide oplossingen aan al uw unieke behoeften. Met een uitgebreid netwerk en expertise zorgen we voor naadloos en efficiënt transport van uw goederen naar elke bestemming wereldwijd. Vertrouw op ons om uw logistieke behoeften te behandelen en ervaar soepele, betrouwbare en tijdige leveringen over de hele wereld."
+    }
+  },
+  "portfolio-section": {
+    "title": "Portfolio",
+    "subtitle-black": "Bekijk onze",
+    "subtitle-1": "Met een stevige greep op deze sectoren, vormen Fruit & Groenten, Bevroren Voedsel en Logistiek onze belangrijkste focus. Ondanks beperkt kapitaal hebben we de kracht om een aanzienlijke impact te maken.",
+    "all": "Alles"
+  },
+  "contact-us": "Contacteer Ons",
+  "contact-section": {
+    "title": "Stuur ons uw vraag of zeg gewoon hallo!",
+    "address": "Ons Adres",
+    "name": "Uw Naam",
+    "email": "Uw e-mail",
+    "subject": "Onderwerp",
+    "message": "Bericht",
+    "send-message": "Bericht versturen",
+    "email-us": "Stuur ons een e-mail",
+    "call": "Bel",
+    "open-hr": "Openingstijden"
+  },
+  "footer": {
+    "all-rights": "Alle rechten voorbehouden."
+  },
+  "loading": "Laden",
+  "message-sent": "Uw bericht is verzonden. Dank u!",
+  "b-o": "Bedrijfsoverzicht"
+}

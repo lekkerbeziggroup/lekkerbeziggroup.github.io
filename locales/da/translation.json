@@ -1,0 +1,82 @@
+{
+  "home": "Hjem",
+  "about": "Om Os",
+  "services": "Services",
+  "portfolio": "Portefølje",
+  "contact": "Kontakt",
+  "email":"E-mail",
+  "welcome": "Velkommen til",
+  "welcome-text": "Vi er naturens leverandør - frugt, grøntsager og frosne lækkerier. Bliv en del af vores blomstrende fællesskab. Idéer blomstrer, vækst kender ingen grænser. Omfavn innovation på denne rejse mod succes. Sammen vil vi dyrke velstand og uendelige muligheder. Velkommen om bord!",
+  "fruits": "Frugter",
+  "fruits-text": "Naturens søde overflod, leveret til dig med omhu - din dedikerede frugtleverandør for øjeblikke af fryd.",
+  "vegetables": "Grøntsager",
+  "vegetables-text": "Frisk, sprød grøntsager leveret til din dør. Forhøj dine måltider med vores kvalitetsprodukter, udvalgt med omhu.",
+  "ff": "Frosne fødevarer",
+  "ff-text":"Kølige, frosne lækkerier leveret til dig. Nyd problemfrie måltider med vores premium frosne fødevarer, udvalgt til tilfredsstillelse.",
+  "sea-f": "Seafood og kødprodukter",
+  "sea-f-text":"Udsøgte skaldyr og velsmagende kødprodukter leveret frisk. Nyd smagen af kvalitet, udvalgt med største omhu.",
+  
+  "lang-select": "Sprogvalg",
+  "about-us": {
+    "title": "Om Os",
+    "subtitle-black": "Find Ud Af Mere",
+    "about-us-intro": "Som din ærede forretningspartner opererer Lekker Bezig globalt og specialiserer sig i en række fødevarer, herunder frugter, grøntsager og frosne produkter. Vores primære mål er at tilpasse os problemfrit til dine handelskrav og forretningsmål. Ved at bruge vores omfattende netværk forbinder vi dig med virksomheder for at udnytte de enestående tjenester, vi tilbyder, og sikrer gensidige fordele og frugtbare samarbejder.",
+    "intro-1": "Vores Vision.",
+    "intro-1-sub-heading": "Som Lekker Bezig stræber vi efter at blive den førende distributør af førsteklasses asiatiske/indiske grøntsager og tropiske friske frugter. Vores uophørlige engagement i innovation, ubestridelige troværdighed, rettidig levering og konkurrencedygtige priser sætter en ny branche-standard, der driver os mod dette mål.",
+    "intro-1-p-1-bold": "Fremragende Distributionservices",
+    "intro-1-p-1": "Lekker Bezig drives af en vision om at etablere sig som branchens førende distributør, der leverer de højeste kvalitets asiatiske/indiske grøntsager og tropiske friske frugter til kunder over hele verden.",
+    "intro-1-p-2-bold": "Sætter En Ny Standard",
+    "intro-1-p-2": "Vores forpligtelse til kontinuerlig innovation, ubestridelig troværdighed, punktlighed og konkurrencedygtige priser sætter en ny branche-standard, der styrker vores position som markedsleder.",
+    "intro-1-ending":"Med lidenskab og beslutsomhed er Lekker Bezig klar til at betjene dig med excellence. Oplev den fineste produktion og uovertrufne services, mens vi sammen bygger et frugtbart partnerskab. Deltag i os på denne bemærkelsesværdige rejse af vækst og succes, og lad os gøre hvert øjeblik til en fejring af friske muligheder. Din tilfredshed er vores prioritet, og vi ser frem til at overgå dine forventninger ved enhver lejlighed."
+  },
+  "our-services": {
+    "title": "Services",
+    "subtitle-black":"Se vores",
+    "subtitle-1": "Opdag vores omfattende udvalg af tjenester.",
+    "fruits": {
+      "title":"",
+      "body": "Smag på godheden af solkysset frugt, håndplukket og leveret med største friskhed. Med en passion for kvalitet og forpligtelse til din tilfredshed er vi stolte af at være din betroede kilde til naturens glæder. Deltag i os i at nyde essensen af naturens overflod og forhøj din kulinariske oplevelse med vores premium frugter."
+    },
+    "veg": {
+      "title": "Grøntsager",
+      "body": "Forkæl dig selv med et farverigt udvalg af gårdfriske grøntsager, omhyggeligt udvalgt til at berige dine kulinariske kreationer. Med fokus på bæredygtighed og ernæringsværdi bringer vi dig det bedste, naturen har at tilbyde. Fra sprudlende salater til hjertelige gryderetter er vores grøntsager den perfekte ingrediens til sunde og lækre retter. Oplev bekvemmeligheden ved at have sundhed leveret lige til din dør og gør hvert måltid til en dejlig og nærende oplevelse."
+    },
+    "f.f": {
+      "title": "Frosne Fødevarer",
+      "body": "Forkæl dig selv med bekvemmeligheden ved vores frosne skatte, omhyggeligt udvalgt til at bevare deres smag og tekstur. Fra saftigt skaldyr til velsmagende kødstykker sikrer vores frosne produkter, at hver ret er et kulinarisk mesterværk. Med Lekker Bezig kan du forhøje din spiseoplevelse uden at gå på kompromis med smag eller kvalitet. Omfavn lethed ved at tilberede gourmetmåltider i komforten af dit hjem og opdag en verden af lækre muligheder."
+    },
+    "s.f": {
+      "title": "Seafood & Kødprodukter",
+      "body": "Forkæl dig selv med et kulinarisk eventyr med Lekker Bezig's fineste udvalg af skaldyr og kød. Vores forpligtelse til friskhed og omhyggelig udvælgelse garanterer en uforglemmelig spiseoplevelse. Fra gourmetfester til hverdagens lækkerier bringer vores produkter en smagsoplevelse til dit bord og efterlader dig med lyst til mere. Med hvert bid, nyd essensen af kvalitet og lidenskab, når vi leverer det bedste, naturen har at tilbyde, direkte til din tallerken."
+    },
+    "logistics": {
+      "title": "Logistik",
+      "body": "Som en pålidelig logistikpartner specialiserer vi os i at levere en bred vifte af varer globalt. Fra fødevarer og kemikalier til ingeniørvarer, dokumenter, tøj, olie, medicin og mere, imødekommer vores omfattende løsninger dine unikke krav. Med et stort netværk og ekspertise sikrer vi problemfri og effektiv transport af dine varer til enhver destination over hele verden. Stol på os til at håndtere dine logistikbehov og oplev smidige, pålidelige og rettidige leverancer på tværs af kloden."
+    }
+  },
+  "portfolio-section": {
+    "title": "Portefølje",
+    "subtitle-black":"Se vores",
+    "subtitle-1": "Med et fast greb om disse industrier står frugt og grøntsager, frosne fødevarer og logistik som vores primære fokus. På trods af begrænset kapital har vi magten til at gøre en betydelig forskel.",
+    "all":"Alle"
+  },
+  "contact-us": "Kontakt Os",
+  "contact-section": {
+    "title": "Send os din forespørgsel eller Sig bare hej!.",
+    "address":"Vores Adresse",
+    "name": "Dit Navn",
+    "email": "Din e-mail",
+    "subject": "Emne",
+    "message": "Besked",
+    "send-message": "Send besked",
+    "email-us": "Send os en e-mail",
+    "call": "Ring",
+    "open-hr": "Åbningstider"
+  },
+  "footer": {
+    "all-rights": "Alle rettigheder forbeholdes."
+  },
+  "loading": "Indlæser",
+  "message-sent": "Din besked er sendt. Tak!",
+  "b-o": "Forretningsoversigt"
+}

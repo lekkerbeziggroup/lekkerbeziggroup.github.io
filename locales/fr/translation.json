@@ -1,0 +1,81 @@
+{
+  "home": "Accueil",
+  "about": "À propos",
+  "services": "Services",
+  "portfolio": "Portefeuille",
+  "contact": "Contact",
+  "email": "E-mail",
+  "welcome": "Bienvenue chez",
+  "welcome-text": "Nous sommes le fournisseur de la nature - fruits, légumes et délices surgelés. Rejoignez notre communauté florissante. Les idées fleurissent, la croissance ne connaît pas de limites. Embrassez l'innovation lors de ce voyage vers le succès. Ensemble, nous cultiverons la prospérité et les possibilités infinies. Bienvenue à bord !",
+  "fruits": "Fruits",
+  "fruits-text": "L'abondance sucrée de la nature, livrée avec soin - votre fournisseur dévoué de fruits pour des moments de délice.",
+  "vegetables": "Légumes",
+  "vegetables-text": "Des légumes frais et croquants livrés à votre porte. Rehaussez vos repas avec nos produits de qualité, sourcés et sélectionnés avec soin.",
+  "ff": "Produits surgelés",
+  "ff-text": "Des délices surgelés rafraîchissants livrés chez vous. Profitez de repas sans tracas avec nos produits surgelés de première qualité, sourcés pour votre satisfaction.",
+  "sea-f": "Produits de la mer et viande",
+  "sea-f-text": "Des produits de la mer délicieux et de la viande savoureuse livrés frais. Savourez la saveur de la qualité, sourcée avec le plus grand soin.",
+  "lang-select": "Sélection de la langue",
+  "about-us": {
+    "title": "À propos de nous",
+    "subtitle-black": "En savoir plus",
+    "about-us-intro": "En tant que votre précieux partenaire commercial, Lekker Bezig opère à l'échelle mondiale, se spécialisant dans une gamme de produits alimentaires, notamment des fruits, des légumes et des produits surgelés. Notre objectif principal est de nous aligner parfaitement sur vos besoins commerciaux et vos objectifs d'entreprise. En utilisant notre vaste réseau, nous vous mettons en relation avec des entreprises pour exploiter pleinement les services exceptionnels que nous offrons, en garantissant des avantages mutuels et des collaborations fructueuses.",
+    "intro-1": "Notre vision.",
+    "intro-1-sub-heading": "En tant que Lekker Bezig, nous aspirons à devenir le principal distributeur de légumes asiatiques/indiens de premier ordre et de fruits tropicaux frais. Notre engagement incessant envers l'innovation, notre crédibilité inébranlable, notre ponctualité et nos prix compétitifs établissent une nouvelle norme dans l'industrie, nous entraînant vers cet objectif.",
+    "intro-1-p-1-bold": "Services de distribution de premier ordre",
+    "intro-1-p-1": "Lekker Bezig est animé par une vision de se positionner comme le principal distributeur de l'industrie, fournissant les légumes asiatiques/indiens de la plus haute qualité et les fruits tropicaux frais aux clients du monde entier.",
+    "intro-1-p-2-bold": "Établir une nouvelle norme",
+    "intro-1-p-2": "Notre engagement envers l'innovation continue, notre crédibilité inébranlable, notre ponctualité et nos prix compétitifs établissent une nouvelle norme dans l'industrie, renforçant notre position de leader sur le marché.",
+    "intro-1-ending": "Avec passion et détermination, Lekker Bezig est prêt à vous servir avec excellence. Découvrez les meilleurs produits et services inégalés alors que nous construisons ensemble un partenariat fructueux. Rejoignez-nous dans cette remarquable aventure de croissance et de succès, et faisons de chaque instant une célébration de nouvelles possibilités. Votre satisfaction est notre priorité, et nous avons hâte de dépasser vos attentes à chaque tournant."
+  },
+  "our-services": {
+    "title": "Services",
+    "subtitle-black": "Découvrez nos",
+    "subtitle-1": "Découvrez notre gamme complète de services.",
+    "fruits": {
+      "title": "",
+      "body": "Goûtez à la bonté des fruits caressés par le soleil, cueillis à la main et livrés avec la plus grande fraîcheur. Avec une passion pour la qualité et un engagement envers votre satisfaction, nous sommes fiers d'être votre source de confiance pour les délices de la nature. Rejoignez-nous pour savourer l'essence des richesses de la nature et rehaussez votre expérience culinaire avec nos fruits de première qualité."
+    },
+    "veg": {
+      "title": "Légumes",
+      "body": "Laissez-vous tenter par un assortiment coloré de légumes frais de la ferme, soigneusement sélectionnés pour enrichir vos créations culinaires. Avec un accent sur la durabilité et la valeur nutritionnelle, nous vous offrons le meilleur que la nature a à offrir. Des salades vibrantes aux ragoûts copieux, nos légumes sont l'ingrédient parfait pour des plats sains et délectables. Profitez de la commodité d'avoir la bonté saine livrée directement à votre porte, transformant chaque repas en une expérience délicieuse et nourrissante."
+    },
+    "f.f": {
+      "title": "Produits surgelés",
+      "body": "Régalez-vous de la commodité de nos trésors surgelés, soigneusement sélectionnés pour préserver leur saveur et leur texture. Des fruits de mer succulents aux morceaux de viande savoureux, nos produits surgelés garantissent que chaque plat est un chef-d'œuvre culinaire. Avec Lekker Bezig, vous pouvez élever votre expérience culinaire sans compromettre le goût ou la qualité. Embrassez la facilité de préparer des repas gastronomiques dans le confort de votre maison et découvrez un monde de délices possibles."
+    },
+    "s.f": {
+      "title": "Produits de la mer & Viande",
+      "body": "Lancez-vous dans une aventure culinaire avec la meilleure sélection de fruits de mer et de viande de Lekker Bezig. Notre engagement envers la fraîcheur et la sélection minutieuse garantit une expérience culinaire inoubliable. Des festins gastronomiques aux délices du quotidien, nos produits apportent une explosion de saveurs à votre table, vous laissant toujours désireux d'en avoir plus. À chaque bouchée, savourez l'essence de la qualité et de la passion, alors que nous livrons le meilleur de ce que la nature a à offrir directement à votre assiette."
+    },
+    "logistics": {
+      "title": "Logistique",
+      "body": "En tant que partenaire logistique fiable, nous sommes spécialisés dans la livraison d'une large gamme de marchandises à l'échelle mondiale. Des denrées alimentaires et des produits chimiques aux biens d'ingénierie, en passant par les documents, les vêtements, l'huile, les médicaments et plus encore, nos solutions complètes répondent à vos besoins uniques. Avec un vaste réseau et une expertise, nous assurons un transport fluide et efficace de vos marchandises vers n'importe quelle destination dans le monde. Faites-nous confiance pour gérer vos besoins logistiques et profitez de livraisons fiables et ponctuelles à travers le monde."
+    }
+  },
+  "portfolio-section": {
+    "title": "Portefeuille",
+    "subtitle-black": "Consultez notre",
+    "subtitle-1": "Avec une solide emprise sur ces industries, Fruits & Légumes, Produits Surgelés et Logistique sont notre principal objectif. Malgré un capital limité, nous avons le pouvoir de faire une différence significative.",
+    "all": "Tout"
+  },
+  "contact-us": "Contactez-nous",
+  "contact-section": {
+    "title": "Envoyez-nous votre demande ou dites simplement bonjour !",
+    "address": "Notre adresse",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "subject": "Sujet",
+    "message": "Message",
+    "send-message": "Envoyer le message",
+    "email-us": "Envoyez-nous un e-mail",
+    "call": "Appel",
+    "open-hr": "Heures d'ouverture"
+  },
+  "footer": {
+    "all-rights": "Tous droits réservés."
+  },
+  "loading": "Chargement",
+  "message-sent": "Votre message a été envoyé. Merci !",
+  "b-o": "Aperçu de l'entreprise"
+}
